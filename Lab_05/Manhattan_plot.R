@@ -1,5 +1,5 @@
 
-setwd("~/fall2022/Lab_05")
+setwd("~/fall2023/Lab_05")
 install.packages("qqman")
 library("qqman")  
 results_log <- read.table("logistic_results.assoc_2.logistic", head=TRUE)
